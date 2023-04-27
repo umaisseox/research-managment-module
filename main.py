@@ -1,3 +1,6 @@
+""" Name:Umais
+    Section and semester: (2E) 2nd semester
+    Rollno:F22BSEEN1E02088"""
 class Student:
     def __init__(self, name, email, phone_number, student_id, supervisor, degree, research_start_date, research_topic):
         self.name = name
