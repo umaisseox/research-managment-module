@@ -1,3 +1,6 @@
+Name:umais riaz
+Rollno:F22BSEEN1E02088
+    
 # Research Management Module
 
 # Base class for supervisors
